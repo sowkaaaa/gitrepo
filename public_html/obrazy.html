@@ -4,9 +4,11 @@
 <head>
 <meta charset="utf-8" />
 <title>Wstawianie obrazu na stronę</title>
+  <link rel="stylesheet" href="./css/style.css">
 <meta name="generator" content="Geany 1.32" />
     <style>
       img { border: 5px solid #F00; }
+      a.zielony { color: red; }
       .lewy { float: left; margin-right: 20px;}
       .prawy { 
           float: right;
@@ -47,6 +49,14 @@
                                 color: yellow;
                                 
                                 }
+                                
+                                #link { color: yellow; }
+                                #1link { color : pink; }
+                                
+                                #list li { color: red; }
+                                li.wew { color: yellow; }
+                                
+                                
     </style>
 </head>
 
@@ -76,9 +86,27 @@
 
     <div>
 <p class="zielony" >Akapit 7 tekst przykładowy <a href="how2html.pl" class="żółty">Kurs HTML 5</a></p>
+    <ol>
+        <li> <a #1link href="how2html.pl" class="zielony" style="color: orange">Kurs HTML 5</a> </li>
+        <li> <a #2link href="how2html.pl" class="zielony" >Kurs HTML 5</a> </li>
+        <li> <a #3link href="how2html.pl" class="zielony" >Kurs HTML 5</a> </li>
+        <li> <a #4link href="how2html.pl" class="zielony" >Kurs HTML 5</a> </li>
+        <li> <a #5link href="how2html.pl" class="zielony" >Kurs HTML 5</a> </li>
+    </ol>
+
 <p>Akapit 8 tekst przykładowy</p>
+
 <p>Akapit 9 tekst przykładowy</p>
     </div>
+    <div id="listy">
+	<ul>
+		 <li>
+			<ul>
+				<li class="wew">element listy zagniezdżonej</li>
+			</ul>
+		</li>
+	</ul>
+</div>
 </body>
 
 
