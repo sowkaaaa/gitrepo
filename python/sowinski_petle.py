@@ -5,35 +5,24 @@
 
 def cw1():
     suma = 0
-    liczba = int(input('Podaj liczbę: '))
-    while suma<75:
-        suma += liczba
-        print(suma)
-        liczba = int(input('Podaj liczbę: '))
-    print()
-    print( 'Suma liczb : ', suma)
+    while suma <= 75:
+        suma += int(input("Podaj liczbę: "))
+    print(suma)
     pass
     
     
 def cw2():
-    m = int(input('Podaj zakres górny: '))
-    n = int(input('Podaj zakres dolny: '))
-    liczba = 0 
-    for i in range(m, n+1):
-        liczba = liczba + 1 
+    m = int(input("Podaj zakres górny: "))
+    n = int(input("Podaj zakres dolny: "))
+    for i in range(m, n+1): 
         print(i, end=' ')
-    return " "
     pass
     
     
 def cw3():
-    n = 0
-    m = int(input('Podaj ostatnią liczbę: '))
-    kwadrat = 0
-    for kwadraty in range(n, m + 1)
-        kwadrat 
-        
-    print(kwadrat)
+    n = int(input("Liczba: "))
+    for i in range(n + 1): 
+        print(i*i)
     pass
 
 
