@@ -30,7 +30,7 @@ def dziel(a, b):
     else:
         print('Bład dzielenia przez zero')
         return False
-    def dodaj(a, b):
+def dodaj(a, b):
 		return a + b
     
 def odejmij(a, b):
@@ -40,38 +40,37 @@ def mnoz(a, b):
 		return a * b
 
 def main(args):
-	pokaz_liste()
-	while True:
-		d = input("Wybierz działanie")
-		if d == '+':
-			a = pobierz_liczbe('Podaj składnik:')
-			b = pobierz_liczbe('Podaj składnik:')
-			if a and b:
-				wynik = dodaj(a, b)
-				if wynik:
-					print('{} + {} = {}' .format(a, b, wynik))
-		elif d == '-':
-			a = pobierz_liczbe('Podaj odjemną:')
-			b = pobierz_liczbe('Podaj odjemnik:')
-			if a and b:
-				wynik = odejmij(a, b)
-				if wynik:
-					print('{} - {} = {}' .format(a, b, wynik))
-		elif d == '*':
-			a = pobierz_liczbe('Podaj czynnik:')
-			b = pobierz_liczbe('Podaj czynnik:')
-			if a and b:
-				wynik = mnoz(a, b)
-				if wynik:
-					print('{} * {} = {}' .format(a, b, wynik))
-			pass
-		elif d == '/':
-			a = pobierz_liczbe('Podaj dzielna:')
-			b = pobierz_liczbe('Podaj dzielnik:')
-			if a and b:
-				wynik = dziel(a, b)
-				if wynik:
-					print('{} / {} = {}' .format(a, b, wynik))
+    pokaz_liste()
+    while True:
+	d = input("Wybierz działanie")
+	if d == '+':
+	    a = pobierz_liczbe('Podaj składnik:')
+	    b = pobierz_liczbe('Podaj składnik:')
+	    if a and b:
+		wynik = dodaj(a, b)
+		if wynik:
+		    print('{} + {} = {}' .format(a, b, wynik))
+	elif d == '-':
+	    a = pobierz_liczbe('Podaj odjemną:')
+	    b = pobierz_liczbe('Podaj odjemnik:')
+	    if a and b:
+		wynik = odejmij(a, b)
+		if wynik:
+		    print('{} - {} = {}' .format(a, b, wynik))
+	elif d == '*':
+	     a = pobierz_liczbe('Podaj czynnik:')
+	     b = pobierz_liczbe('Podaj czynnik:')
+	     if a and b:
+		 wynik = mnoz(a, b)
+		 if wynik:
+		     print('{} * {} = {}' .format(a, b, wynik))
+         elif d == '/':
+	      a = pobierz_liczbe('Podaj dzielna:')
+	      b = pobierz_liczbe('Podaj dzielnik:')
+	      if a and b:
+		  wynik = dziel(a, b)
+		  if wynik:
+		      print('{} / {} = {}' .format(a, b, wynik))
         elif d == '//':
            pass
         elif d == '%':
