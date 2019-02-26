@@ -20,7 +20,7 @@ def pobierz_dane1():
     if imie[-1] == 'a':
         print('Jesteś kobietą! ')
     else:
-        print('Jesteś mężczyzną!')
+        print('Jesteś mężczyzną! ')
         
 def pobierz_dane2():
     nazwa = input('Imię i nazwisko: ').strip()
