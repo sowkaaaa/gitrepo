@@ -1,0 +1,174 @@
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:28:08 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[21-May-2019 15:32:16 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/lo1sand/public_html/gs1a/admin/install.php on line 44
+[28-May-2019 16:18:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 1
+[28-May-2019 16:19:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:19:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 1
+[28-May-2019 16:19:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/nav.inc.php on line 1
+[28-May-2019 16:19:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/nav.inc.php on line 1
+[28-May-2019 16:20:19 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:20:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:20:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:20:19 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:20:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:20:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:20:19 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:20:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:20:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:21:22 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:21:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:21:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:21:22 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:21:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:21:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:21:22 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:21:23 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:21:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:29:10 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:29:10 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/footer.inc.php on line 1
+[28-May-2019 16:29:36 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:36 Europe/Berlin] PHP Warning:  include(aside.inc.php): failed to open stream: No such file or directory in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:29:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'aside.inc.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/theme/klasa/template.php on line 25
+[28-May-2019 16:30:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/aside.php on line 1
+[28-May-2019 16:30:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/kl1ag1/public_html/gs1a/theme/klasa/aside.php on line 1
+[29-May-2019 09:10:53 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/template_functions.php on line 1043
+[29-May-2019 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function return_i18n_breadcrumbs() in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php:28
+Stack trace:
+#0 /home/kl1ag1/public_html/gs1a/theme/klasa/template.php(2): include()
+#1 /home/kl1ag1/public_html/gs1a/index.php(134): include('/home/kl1ag1/pu...')
+#2 {main}
+  thrown in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 28
+[29-May-2019 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function return_i18n_breadcrumbs() in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php:28
+Stack trace:
+#0 /home/kl1ag1/public_html/gs1a/theme/klasa/template.php(2): include()
+#1 /home/kl1ag1/public_html/gs1a/index.php(134): include('/home/kl1ag1/pu...')
+#2 {main}
+  thrown in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 28
+[29-May-2019 09:31:41 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:31:56 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:31:58 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[29-May-2019 09:35:36 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[29-May-2019 09:35:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[29-May-2019 09:35:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[29-May-2019 09:36:12 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[29-May-2019 09:37:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[29-May-2019 09:37:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[29-May-2019 09:37:38 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[29-May-2019 09:40:10 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:01:21 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/template_functions.php on line 1043
+[04-Jun-2019 11:01:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 183
+[04-Jun-2019 11:01:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 235
+[04-Jun-2019 11:01:26 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 271
+[04-Jun-2019 11:01:26 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:01:26 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:01:27 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 349
+[04-Jun-2019 11:01:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:02:11 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 183
+[04-Jun-2019 11:02:11 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 235
+[04-Jun-2019 11:02:11 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 271
+[04-Jun-2019 11:02:11 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:02:11 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:02:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:03:38 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:03:39 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:03:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:03:42 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:10:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:12:00 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 60
+[04-Jun-2019 11:12:00 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:12:00 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:12:00 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:12:00 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:12:00 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:13:27 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 52
+[04-Jun-2019 11:13:27 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:13:27 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:13:35 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:15:11 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/changedata.php on line 52
+[04-Jun-2019 11:15:11 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:15:11 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 219
+[04-Jun-2019 11:15:14 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:19:52 Europe/Berlin] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; I18nNavigationItem has a deprecated constructor in /home/kl1ag1/public_html/gs1a/plugins/i18n_navigation/frontend.class.php on line 350
+[04-Jun-2019 11:19:52 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:20:25 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:20:25 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:22:42 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:22:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:00 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:03 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:05 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:08 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:23:10 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:24:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/kl1ag1/public_html/gs1a/theme/klasa/header.inc.php on line 31
+[04-Jun-2019 11:31:21 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:31:27 Europe/Berlin] PHP Warning:  chmod(): Operation not permitted in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 322
+[04-Jun-2019 11:31:27 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:31:27 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:31:50 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:31:50 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:31:50 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/overview.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 90
+[04-Jun-2019 11:31:50 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/overview.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 90
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 183
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 235
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/kl1ag1/public_html/gs1a/admin/upload.php on line 271
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:32:09 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in /home/kl1ag1/public_html/gs1a/admin/inc/basic.php on line 1198
+[04-Jun-2019 11:32:17 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:17 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:17 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/overview.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 90
+[04-Jun-2019 11:32:17 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/overview.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 90
+[04-Jun-2019 11:32:42 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:42 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:42 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/overview.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 90
+[04-Jun-2019 11:32:42 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/overview.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 90
+[04-Jun-2019 11:32:47 Europe/Berlin] PHP Warning:  include(/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php): failed to open stream: Permission denied in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
+[04-Jun-2019 11:32:47 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/kl1ag1/public_html/gs1a/plugins/i18n_gallery/header.php' for inclusion (include_path='.:/usr/share/php') in /home/kl1ag1/public_html/gs1a/plugins/i18n_gallery.php on line 82
