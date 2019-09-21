@@ -25,14 +25,10 @@ int main(int argc, char **argv)
         cout << "To jest trójkat" << endl;
     else
 		cout << "To trójkątem na pewno nie jest!" << endl;
-    if (sqrt(a)+ sqrt(b) = sqrt(c))
-        cout << "Trójkat prostokątny" << endl;
+    if ((a * a + b * b ==  c * c) || (a * a + c * c ==  b * b) || (b * b + c * c ==  a * a))
+        cout << "To jest trojkat prostokatny.";
     else
-        cout << "To nie jest trójkąt prostokątny" << endl;
-
-
-
-
+        cout << "To nie jest trojkat prostokatny.";
 	return 0;
 }
 
