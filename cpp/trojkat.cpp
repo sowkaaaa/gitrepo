@@ -21,14 +21,14 @@ int main(int argc, char **argv)
 	int c;
 	cout << "Podaj bok trzeci: ";
 	cin >> c;
-	if (a+b>c && a+c>b && b+c >a)
+	if(a+b>c && a+c>b && b+c>a){
         cout << "To jest trójkat" << endl;
-    else
-		cout << "To trójkątem na pewno nie jest!" << endl;
-    if ((a * a + b * b ==  c * c) || (a * a + c * c ==  b * b) || (b * b + c * c ==  a * a))
-        cout << "To jest trojkat prostokatny.";
-    else
-        cout << "To nie jest trojkat prostokatny.";
+    } else{
+		cout << "To trójkątem na pewno nie jest!" << endl;}
+    if ((a * a + b * b ==  c * c) || (a * a + c * c ==  b * b) || (b * b + c * c ==  a * a)){
+        cout << "To jest trojkat prostokatny." ;
+     } else {
+        cout << "To nie jest trojkat prostokatny.";}
 	return 0;
 }
 
