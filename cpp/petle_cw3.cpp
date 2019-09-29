@@ -18,7 +18,7 @@ int main(int argc, char **argv)
     cout<<"Liczba koñcowa: ";
     cin >> m;
     for(n=0; n<m+1; n++)
-        { cout << pow(n, 2) << " "; }
+        {cout << pow(n, 2) << " ";}
 
 	return 0;
 }

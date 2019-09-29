@@ -19,7 +19,7 @@ int main(int argc, char **argv)
     cout<<"Podaj przedział do: ";
     cin >> m;
     for(n=0; n<m+1; n++)
-        {cout << n << " ";}
+        { cout << n << " "; }
 
 
 
