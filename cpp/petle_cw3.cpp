@@ -1,8 +1,6 @@
 /*
  * petle_cw3.cpp
  *
- * Copyright 2019 Lenovo <Lenovo@DESKTOP-M5KAEQ5>
- *
  */
 
 
