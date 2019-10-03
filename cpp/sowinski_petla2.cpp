@@ -32,7 +32,7 @@ void pustak(int x, int y) {
     for (j = 1; j <= y; j++) {
         if (i == 1 || i == x)
         cout<< "#";
-        else if (j == 1 || j ==y)
+        else if (j == 1 || j == y)
         cout << "#";
         else
         cout <<" ";
@@ -54,9 +54,9 @@ void choinka(int x){
 
 int main(int argc, char **argv)
 {
-    pustak(12,12);
+    pustak(5,12);
     cout<<endl;
-    prostokat(12,12);
+    prostokat(5,12);
     cout<<endl;
     choinka(1);
     cout<<endl;
