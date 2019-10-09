@@ -15,18 +15,20 @@ void drukuj() {
     cout << "Pracujesz " << staz << " lat i zarabiasz " << zarobek << endl;
 }
 
-void awans(int &staz, float &zarobek) {
-    staz = staz + 1;
+int awans() {
+    staz += 1;
     zarobek = zarobek * 1.1;
+    return zarobek, staz;
 }
 
 int main(int argc, char **argv)
-{   int lata;
-    cout << "Podaj staz w latach: " << endl;
+{   int lata = 1;
+    cout << "Podaj staz pracy w latach: " << endl;
     cin >> lata;
-	awans(staz, zarobek);
+    for(int i = 1; i <= lata; i++){
     drukuj();
-
+    awans();
+    }
 	return 0;
 }
 
