@@ -9,7 +9,7 @@
 using namespace std;
 
 int staz = 1;
-float zarobek = 1000;
+int zarobek = 1000;
 
 void drukuj() {
     cout << "Pracujesz " << staz << " lat i zarabiasz " << zarobek << endl;
@@ -23,11 +23,11 @@ int awans() {
 
 int main(int argc, char **argv)
 {   int lata = 1;
-    cout << "Podaj staz pracy w latach: " << endl;
+    cout << "Podaj staz pracy: " << endl;
     cin >> lata;
     for(int i = 1; i <= lata; i++){
     drukuj();
-    awans();
+	awans();
     }
 	return 0;
 }
