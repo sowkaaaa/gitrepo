@@ -1,6 +1,6 @@
 /*
  * znaki.cpp
- * znakiem kończącym tablicę znakową jest \0 
+ * znakiem kończącym tablicę znakową jest \0
  */
 
 
@@ -8,35 +8,36 @@
 
 using namespace std;
 
-
-void koduj(char tabzn[], int rozmiar) {
-	for(int i = 0; i < rozmiar ; i++){
-		cout << (int)tabzn[i] << " ";
-		}
+void ascii(){
+    int i = 0;
+    for(i=65; i<91; i++){
+        cout << i << "-" << char(i) << endl;
+        }
 }
-void dekoduj(int kod[];int rozmiar){
-		for(int i = 0; i < rozmiar ; i++){
-		cout << (char)kod[i] << " ";
-		}
+
+void koduj(char tabzn[],int rozmiar=11){
+    cout << "Podaj napis: ";
+    cin >> tabzn;
+    for(int i=0; i<rozmiar; i++){
+        cout << "," << (int)tabzn[i];
+    }
+}
+
+void dekoduj(char tabzn[],int rozmiar=11){
+    for(int i=0; i<rozmiar; i++){
+        cout << tabzn[i] << "-" << (char)tabzn[i] << endl;
+    }
 }
 
 
 int main(int argc, char **argv)
-{
-	int rozmiar = 11;
-	char napis[rozmiar] = "kapie mi sos";
-	cout << "Wpisz tresc wiadomosci";
-	cin >> napis;
-	int kod[rozmiar] = {56, 67, 89};
-	
-	koduj(napis, rozmiar);
-	dekoduj(kod, rozmiar);
-	
-	
-}
-	
+{   int rozmiar=11;
+    char napis[11];
 
-	
-	return 0;
+    koduj(napis,rozmiar);
+    cout << endl;
+    char szyfr[11]={100,122,105,101,110,100,111,98,114,121,121};
+    dekoduj(szyfr,rozmiar);
+    return 0;
 }
 
