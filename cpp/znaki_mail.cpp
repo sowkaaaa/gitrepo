@@ -31,12 +31,12 @@ void dekoduj(char tabzn[],int rozmiar=11){
 
 
 int main(int argc, char **argv)
-{   int rozmiar=11;
-    char napis[11];
+{   int rozmiar=14;
+    char napis[14];
 
     koduj(napis,rozmiar);
     cout << endl;
-    char szyfr[11]={100,122,105,101,110,100,111,98,114,121,121};
+    char szyfr[14]={104,101,106,104,101,106,104,101,106,104,101,106,104,101};
     dekoduj(szyfr,rozmiar);
     return 0;
 }
