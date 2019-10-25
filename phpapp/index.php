@@ -10,7 +10,7 @@ define('DINC', 'inc/');
 define('DBASE', 'db/');
 $dbfile = DBASE.'baza.db';
 $db=null;
-$kom= array();
+$kom = array();
 require_once(DINC.'functions.php');
 require_once(DINC.'db.php');
 require_once(DINC.'users.php');
