@@ -18,7 +18,7 @@ int main(int argc, char **argv)
 	for (i=0; i<rozmiar; i++){
 		cin >> tablica[i];
 	}
-	for (i=0; i<rozmiar; i++){
+	for (i=0; i < rozmiar; i++){
 		cout << tablica[i] << " ";
 	}
 
