@@ -48,8 +48,8 @@
 		a1 = a = parseInt(a);
 		b1 = b = parseInt(b);
 		while (a > 0) {
-		a = a % b;
-		b = b - a;
+			a = a % b;
+			b = b - a;
 		}
 		w = document.getElementsByClassName("wynik");
 		w[1].innerHTML = "NWD("+a1+", "+b1+") =" + b;
