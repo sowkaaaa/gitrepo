@@ -37,20 +37,38 @@ void wczytajNominaly() {
 	cout << endl;
 }
 
-int znajdzReszte(int reszta) {
+int policzNominal(int n){
+	int ile = 0;
+	for(int i = 0; i < liczbaNominalow; i++){
+		if (n > nominaly[i]) break;
+		if (nominaly[i] == n)
+			ile++;
+	}
+	return ile;
+}
+
+void znajdzReszte(int reszta) {
 	cout << "Wypłacone nominały: " << endl;
 	int aktualnyNominal = 0;
 
 	while (reszta > 0 && aktualnyNominal < liczbaNominalow) {
 		cout << "reszta = " << reszta << endl;
-		//znajdź największy dostępny nominał mniejszy od reszty; if (reszta >= nominaly[i])
-		cout << "aktualny nominał: " << nominaly[aktualnyNominal] >> endl;
-		// oblicz wymaganą ilość nominałów int L; L = reszta / nominaly[i];
-		// pomniejsz resztę reszta = reszta -(nominaly[i]*L)
-		//brak nominalow do wydanie i++
+		while (aktualnyNominal < liczbaNominalow && reszta < nominaly[aktualnyNominal])
+			++aktualnyNominal;
+		int nominal = nominaly[aktualnyNominal];
+			
+		cout << "aktualny nominał: " << nominal << endl;
+		
+		if (aktualnyNominal < liczbaNominalow && reszta >= nominaly[aktualnyNominal]){
+			int liczbaBanknotow = reszta / nominal;
+			cout << "Dostepnych nominałów: " << policzNominal(nominal);
+			reszta = reszta - liczbaBanknotow * nominal;
+			cout << liczbaBanknotow << "x" << nominal << "zł" << endl;
+		}
 	}
+	
 	if (reszta > 0)
-		cout << "Brak nominałów do wydania kwoty" << reszta << endl;
+		cout << "Brak nominałów do wydania kwoty: " << reszta << endl;
 
 }
 // [50, 50, 20, 20, 10, 10, 5, 5, 5, 1]
