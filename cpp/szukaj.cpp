@@ -35,10 +35,10 @@ int szukaj_re2(int liczby[], int lewy, int prawy, int n) {
 		return -1;
 	} else {
 		if (liczby[prawy] == n) {
-			cout << "Znaleziono element" << endl;
+			cout << "Znaleziono element!" << endl;
 			return prawy;
 		} else {
-			szukaj_re2(liczby,prawy -1,lewy, n);
+			szukaj_re2(liczby, lewy, prawy -1, n);
 		}
 	}
 }
