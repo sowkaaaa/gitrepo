@@ -1,32 +1,53 @@
-/*
- * sortowanie.py
- * 
- * Copyright 2019 kl2ag1 <kl2ag1@ubu07>
- * 
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
- * 
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- * 
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
- * MA 02110-1301, USA.
- * 
- * 
- */
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+#  ssortowanie.py
 
 
-#include <iostream>
+from random import randint 
 
-int main(int argc, char **argv)
-{
+def wypelnij(lista, n):
+    for i in range(n):
+        lista.append(randint(0, 100))
+
+def wyswietl(lista):
+    for i in lista:
+        print(i, " ", end='')
+    print()
+ 
+def zamien(tab, j, i):
+	tmp = tab[j]
+	tab[j] = tab[i]
+	tab[i] = tmp
+    
+def sort_bubble(tab):
+	n = len(tab)
+	for i in range(n-1, 0, -1):
+		
+		for j in range(0, i):
+			if tab[j] > tab[j+1]:
+				zamien(tab, j, j+1)
+				
+
+def sort_selection(tab):
+	n = len(tab)
+	for i in range(0, n):
+		for j in range(i+1
+			if tab[j] = tab[i]:
+				zamien(tab, j, i)
+
 	
-	return 0;
-}
+def main(args):
+    n = int(input('Ile liczb wylosować? '))
+    lista = []
+    wypelnij(lista, n)
+    wyswietl(lista)
+    sort_bubble(lista)
+    wyswietl(lista)
+    sort_selection(lista)
+    wyswietl(lista)
+    return 0
 
+if __name__ == '__main__':
+    import sys
+    sys.exit(main(sys.argv))
