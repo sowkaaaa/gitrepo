@@ -1,3 +1,4 @@
+
 #include <iostream>
 
 using namespace std;
@@ -8,8 +9,9 @@ int main()
 {
     cout << "Podaj n: ";
     cin >> n;
-    p1=p2=1;
-    for(i=3; i<=n; i++)
+    p1, p2=1;
+    fib=0;
+    for(i=1; i<=n; i++)
 	{
 		fib=p1+p2;
 		p2=p1;
