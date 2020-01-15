@@ -1,0 +1,22 @@
+KOMPILOWANE(C++, KOMPILATOR, LINKER)
+INTERPRETOWANE (PHP,Python, Jvaa Script)
+ZDALNE WYKONYWANIE KODU PO STRONIE SERWERA WWW (INTERPRETER, DEDYKOWANY MODUŁ SERWERA)
+aby wyprowadzić dane tekstowe (bez cout) 
+po stronie serwera www kod php wykonywany w plikach php
+jesli uruchomimy samo html to dostaniemy niesformatowany tekst
+po stronie serwera w skrypcie php dane 
+wyszukiwanie informacji w serwisie www - GET 
+HTTP; POST, GET
+walidacja danych- sprawdzanie poprawności danych (po stronie serwera)
+do walidacji danych - po stronie serwera i klienta
+poprawnosc loginu i hasla -  walidacja, autentykacja
+czy zmienna istnieje i nie jest NULL  -  isset
+funkcja array_key_exist - czy w tabeli istnieje klucz
+czy zmienna nie istnieje lub FALSE - empty
+poprawnosc sprawdzanych danych specialchars, strlen, trim
+zmienne php  sa tworzone w momencie pierwszego przypisania
+do tworzenia nowych zmiennych - zapis ${zmienna} = 'wartość'
+aby wartość zmiennej znalazłą sie w ciągu znakowym = "zmienna $zmienna" {tab}...
+"ko" odczytamy za pomoca instrukcji  $_POST['KOD
+']
+UMOZLIWIA PRZEGLADANIE ELEMENTÓW TABLICY FOREACH
