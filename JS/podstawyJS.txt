@@ -1,0 +1,47 @@
+<script type="text/javascript">
+// Edit your script here
+var a = 5;
+var b = 10;
+var c = a + b;
+console.log(c);
+document.write("<h1>"+c+"</h1>");
+window.alert(c);
+document.write('<p id="js"></p>');
+document.getElementById("js").innerHTML = c;
+</script>
+<!-- edit your html here -->
+
+
+ODCZYTYWANIE WARTOŚCI
+<script>
+// Edit your script here
+var a = parseInt (prompt('Podaj bok: '));
+var b = parseInt (prompt('Podaj bok: '));
+var c = parseInt (prompt('Podaj bok: '));
+document.write(a + b + c);
+if a+b>c && a+c>b && b+c>a {
+	window.alert('da sie!');
+} else {
+	window.alert('nie da sie!');
+}
+</script>
+<!-- edit your html here -->
+
+
+
+PODSTAWOWE TYPY DANYCH
+<script>
+// Edit your script here
+var dlugosc = 10; // liczba
+var imie = "Dorota"; // string
+var tablica = ["Fiat", "Skoda", "Merc"];
+document.write(tablica[1]);
+var osoba = {
+	imie:"Adam"
+	nazwisko:"Kot"
+	wiek: 25
+};
+document.write(osoba.imie, osoba.wiek);
+</script>
+<!-- edit your html here -->
+
