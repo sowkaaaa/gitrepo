@@ -1,0 +1,10 @@
+DOM - obiektowy model dokumentu HTML, przedstawiony w postaci drzewa(hirearchicznej strukturze danych)
+Najważniejszy obiekt - DOCUMENT(daje możliwość dostepu do innych obiektów) 
+
+drzewo
+    |
+rodzic(parent)
+    |
+dzieci(child)
+    |
+rodzeństwo(sibling)
