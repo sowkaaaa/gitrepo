@@ -1,6 +1,7 @@
 Kompresja danych
 Rodzaje kompresji:
 * kompresja bezstratna: 7zip, zip, xz, rar (możemy odzyskać pliki w nienaruszonym stanie)
+* kompresja stratna(garfika, dźwięk)
 
 1 bit * 8 = 1 B(ajt)
 
@@ -30,7 +31,8 @@ Rc = 142,7/633,6 = 23%
 Rc = (1 - Vk/Vnk) * 100%
 Rc = 77 %
 
-Napisz w domu program który mówi ile miejsca zostało zaoszczedzone.
+PS(postscript)
+
 
 
 
