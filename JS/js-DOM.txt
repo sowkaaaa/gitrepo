@@ -8,3 +8,5 @@ rodzic(parent)
 dzieci(child)
     |
 rodzeństwo(sibling)
+
+JQuery
