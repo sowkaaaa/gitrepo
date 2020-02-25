@@ -12,6 +12,6 @@ $(document).ready(function(){
     $(this).addClass("tloBlue");
   });
   $("input").mouseleave(function(){
-    $(this).removeClass("tlo");
+    $(this).removeClass("tloWhite");
 });
 });
