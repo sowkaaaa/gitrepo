@@ -11,7 +11,12 @@ $(document).ready(function(){
   $("input").mouseover(function(){
     $(this).addClass("tloBlue");
   });
-  $("input").mouseleave(function(){
-    $(this).removeClass("tloWhite");
-});
+  $("input").mouseout(function(){
+    $(this).removeClass("tlo");
+  });
+
+    $("delfin").mouseover(function(){
+      $("krewetka").toggle();
+    });
+
 });
