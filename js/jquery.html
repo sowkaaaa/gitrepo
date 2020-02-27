@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Użycie biblioteki</title>
-	<link rel="stylesheet" href="style.css"></link>
+	<link rel="stylesheet" href="style.css" type="text/css">
 	<script src="jquery-3.4.1.min.js"></script>
 <!--
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -22,8 +22,13 @@
 	<hr>
 	<p>Wynik:</p>
 
-	<div><img src="delfin.jpg" class="delfin1 szer"><img src="krewetka.jpg" class="krewetka1 szer" ></div>
-	<div><img src="delfin.jpg" class="delfin szer"><img src="krewetka.jpg" class="krewetka szer" ></div>
+	<div class="img">
+		<img src="delfin.jpg" id="d1" class="szer">
+		<img src="krewetka.jpg" id="k1" class="szer" >
+		<br>
+		<img src="delfin.jpg" id="d2" class="szer">
+		<img src="krewetka.jpg" id="k2" class="szer" >
+	</div>
 
 	<script src="jquery_cwicz.js"></script>
 </body>

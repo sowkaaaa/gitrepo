@@ -12,11 +12,25 @@ $(document).ready(function(){
     $(this).addClass("tloBlue");
   });
   $("input").mouseout(function(){
-    $(this).removeClass("tlo");
+    $(this).removeClass("tloWhite");
   });
-
-    $("delfin").mouseover(function(){
-      $("krewetka").toggle();
-    });
+    $("#d1").dblclick(function(){
+      $("#d1").toggle(100);
+  });
+    $("#k1").mouseover(function(){
+      $("#k1").toggle(100);
+  });
+    $("#d2").mouseover(function(){
+      $("#k2").toggle(1000);
+  });
+    $("#k2").mouseleave(function(){
+      $("#d4").toggle(1000);
+  });
+    $("#d4").mouseover(function(){
+      $("#k2").toggle(1000);
+  });
+    $("#d4").mouseleave(function(){
+      $("#k2").toggle(1000);
+});
 
 });
