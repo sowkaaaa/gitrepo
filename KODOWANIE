@@ -1,0 +1,9 @@
+t(i,j) = t(j,i)
+t(K,E) = T(E,K)
+=ZNAK(
+	JEŻELI(
+		WIERSZ(A1)+KOLUMNA(A1)+63>90;
+		WIERSZ(A1)+KOLUMNA(A1)+63-26;
+		WIERSZ(A1)+KOLUMNA(A1)+63
+		)
+	)
