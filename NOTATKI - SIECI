@@ -1,0 +1,56 @@
+Aby można było sie komunikować pomiędzy urządzeniami,potrzeba:
+-KARTA SIECIOWA
+
+-LOKALNE SIECI KOMPUTEROWE - LAN
+
+-INTERFEJS SIECIOWY- musi mieć identyfikator; posiada aadres MAC(numer zapisany za pomocą cyfr szesnastkowych, kod urzadzenia i producenta)
+
+-ADRES IP
+
+prywatne adresy IP
+IPv4
+x.x.x.x
+x max = 255
+10.0.0.0 - 10.255.255.255
+172.16.0.0 - 172.31.255.255
+192.168.0.0 - 192.168.255.255 - najczęściej wykorzystywany, adresy prywatne
+Domyślna brama
+IPv6- zamiast 32 bitów, wykorzystywane jest 128 bitów; można by było zrezygnować z adresów prywatnych
+
+
+Router- pozwala połączyć sie z innymi sieciami (przynajmniej 2 interfejsy, prywatny i zewnętrzny)
+
+Switch - przełącznik sieciowy, połączony z ruterem (łączy urządzenia w obrębie jednej sieci)
+
+MUX- grupy kanałów telewizyjnych
+
+Internet(sieć-sieci)-duża ilość sieci, połączonych ze sobą, aby urządzenia mogły się komunikować
+
+Najwazniejszy protokół dzialajacy w warstwie transportowej -TCP(protokół sterowania transmisją) kontroluje poprawność transportu
+Model OSI
+Eługośc max ramki ethernetowej - 1518
+
+
+NUMERY PORTÓW:
+
+
+
+📝️ W domu:
+
+Adres MAC
+Adres IP prywatny 
+Adres IP publiczny (WHAT IS MY IP)
+Adres IP Bramy
+
+Jak podłączony jest telewizor?
+Dekoder/Kablówka/Internet
+
+Jaki mam router?
+Nazwa producenta lub usługodawcy.
+Ile gniazd Ethernet i czy ma gniazdo oznaczone WAN?
+
+📟️ W TERMINALU:
+cmd ipconfig
+ipconfig /all W
+ip addr
+tracert W
