@@ -11,8 +11,8 @@ CREATE TABLE tbUczniowie (
 );
 
 CREATE TABLE tbOddziały (
-    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT ,
-    oznaczenie TEXT,
-    rok_naboru TEXT,
-    rok_matury TEXT
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    oznaczenie CHAR(3),
+    rok_naboru CHAR(4),
+    rok_matury CHAR(4)
 );
